@@ -1,0 +1,287 @@
+<html>
+
+<head>
+    <title>
+        TASK 1: TO-DO LIST
+    </title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav>
+        <div class="navbar-mainlogo">
+            <img class="navbar-n" src="https://cdn1.iconfinder.com/data/icons/capsocial/500/iconfinder-512.png"
+                alt="logo">
+        </div>
+        <div class="navbar-mainhead">
+            <h1>
+                <center>
+                    CODSOFT INTERNSHIP <br> <u>PERSONAL PORTFOLIO</u>
+                </center>
+            </h1>
+        </div>
+        <div class="navbar-mainsocials">
+            <a href="https://www.linkedin.com/in/kartikey-here/">
+                <img class="navbar-n"
+                    src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-square1-512.png"
+                    alt="linkedin">
+            </a>
+            <a href="https://www.instagram.com/kartikey_._here/">
+                <img class="navbar-n"
+                    src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png"
+                    alt="ig">
+            </a>
+            <a href="https://twitter.com/kartikey_here">
+                <img class="navbar-n"
+                    src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-twitter-square2-512.png"
+                    alt="twitter">
+            </a>
+            <a href="https://www.reddit.com/user/cooolkits">
+                <img class="navbar-n"
+                    src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png"
+                    alt="reddit">
+            </a>
+        </div>
+    </nav>
+    <div class="main-outer">
+        <div class="namepfpbio">
+            <div class="namebio">
+                <br><br><br>
+                <span>
+                    <u> Sneha Abhinaya </u><br><br>
+                    I am a dedicated and hardworking 3rd year Btech student
+                    at Sreyas Institute of Enginnering and Technology, set to
+                    graduate in 2025. <br><br>
+                    With knowledge in
+                    programming languages, including C, C++, Java, Python,MySQL,
+                    HTML and CSS I am committed to delivering quality work
+                    and am constantly seeking opportunities to enhance my
+                    skills and learn new technologies. <br><br>
+                    I strongly believe that
+                    dedication and hard work are the keys to success, and I
+                    am determined to achieve my goals.
+                </span>
+            </div>
+            <div class="pfp">
+                <img src="data/pfp.jpg" alt="pfp">
+            </div>
+        </div>
+        <br>
+        <div class="contactdetails">
+            <center>
+                <h1>Basic Details</h1>
+                <table>
+                    <tr>
+                        <td>
+                            Name
+                        </td>
+                        <td>
+                            Sneha Abhinaya
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Ph No.
+                        </td>
+                        <td>
+                            +91 8341887460
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            E-Mail
+                        </td>
+                        <td>
+                            sneha220718@gmail.com
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>
+                            DOB
+                        </td>
+                        <td>
+                            30-Sep-2003
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Address
+                        </td>
+                        <td>
+                            Malkajgiri,Secundarabad
+                        </td>
+                    </tr>
+                </table>
+            </center>
+        </div>
+        <br>
+        <div class="ejukesan">
+            <center>
+                <span>
+                    <h1>Educational Details</h1>
+                </span>
+                <br><br>
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="sno">S. No</th>
+                            <th class="cour">Course</th>
+                            <th>Year</th>
+                            <th>Percentage</th>
+                            <th>Institute Name</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="sno">
+                                <center>1</center>
+                            </td>
+                            <td class="cour">
+                                <center>CSE</center>
+                            </td>
+                            <td>
+                                <center>2021-2025</center>
+                            </td>
+                            <td>
+                                <center>69%</center>
+                            </td>
+                            <td>
+                                <center>Sreyas Institute of Engineering and Technology</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="sno">
+                                <center>2</center>
+                            </td>
+                            <td class="cour">
+                                <center>Intermediate</center>
+                            </td>
+                            <td>
+                                <center>2019-2021</center>
+                            </td>
+                            <td>
+                                <center>75%</center>
+                            </td>
+                            <td>
+                                <center>Sri Gayatri Junior College</center>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="sno">
+                                <center>3</center>
+                            </td>
+                            <td class="cour">
+                                <center>High School</center>
+                            </td>
+                            <td>
+                                <center>2018-2019</center>
+                            </td>
+                            <td>
+                                <center>95%</center>
+                            </td>
+                            <td>
+                                <center>Kendriya Vidhyalaya Tirumalagiri</center>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </center>
+        </div>
+        <br>
+        <div class="skillproj">
+            <div class="skill">
+                <center>
+                    <h1>Skills</h1> <br><br><br>
+                    <span>
+                        C, C++<br>
+                        Java<br>
+                        Python<br>
+                        HTML<br>
+                        CSS<br>
+                        MySQL<br>
+                    </span>
+                </center>
+            </div>
+            <div class="proj">
+                <center>
+                    <h1>Projects</h1> <br><br>
+                    <span>
+                        To-Do List <br>
+                        Calculator<br>
+                        Personal Portfolio<br>
+                        Landing Page<br>
+                    </span>
+                </center>
+            </div>
+        </div>
+        <br>
+        <div class="exp">
+            <h1>Profesional Experience</h1>
+            <center>
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="orgpic">
+
+                            </th>
+                            <th>
+                                Organization/Company
+                            </th>
+                            <th>
+                                Duration
+                            </th>
+                            <th>
+                                Job Role
+                            </th>
+                            <th>
+                                Domain
+                            </th>
+                            <th>
+                                Internship/Job
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="orgpic">
+                                <img src="data/technohacks.jpeg" alt="technohacks">
+                            </td>
+                            <td>
+                                Codesoft
+                            </td>
+                            <td>
+                                1month <br> Jan2024
+                            </td>
+                            <td>
+                                Web Developer Intern
+                            </td>
+                            <td>
+                                Web Development
+                            </td>
+                            <td>
+                                Internship <br> (Remote/WFH)
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </center>
+        </div>
+        <br>
+        <div class="resume">
+            <span><h1>My Resume</h1></span>
+            <br><br>
+            <iframe src="https://drive.google.com/file/d/1w6yXbRP2gQi-lYcm8_kSNcPVHEvLmu34/view?usp=drivesdk/preview"
+                allow="autoplay"></iframe>
+            <br><br>
+            <span><a href="https://drive.google.com/file/d/1w6yXbRP2gQi-lYcm8_kSNcPVHEvLmu34/view?usp=drivesdk/view"
+                    target="_blank">Download
+                    The Resume</a></span>
+        </div>
+        <br>
+        <marquee>Sneha Abhinaya  2k24. Thanks For Visiting. Have A Nice Day</marquee>
+    </div>
+
+</body>
+
+</html>
